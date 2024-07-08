@@ -19,5 +19,6 @@ Implementation:
 How to Use:
 
     Run the program.
-    Press the Y/y key to trigger events and observe the simulation.
+    Press the space key to trigger events and observe the simulation.
     Exit the program by pressing any key other than space.
+# project
